@@ -4,10 +4,7 @@
 #  Instructions
 #  ------------
 #
-#  This file contains Main function and note_detect function. Main Function helps you to check your output
-#  for practice audio files provided. Do not make any changes in the Main Function.
-#  You have to complete only the note_detect function. You can add helper functions but make sure
-#  that these functions are called from note_detect function. The final output should be returned
+#  This file contains Main function and note_detect function. The final output is returned
 #  from the note_detect function.
 #
 #  -------------
@@ -60,7 +57,6 @@ def max_value(list):
 
 	return imax
 
-############################### Your Code Here ##############################################
 
 def note_detect(audio_file):
 
